@@ -1,7 +1,8 @@
 # DNA
 The following repository contains interactive notebooks which can be used to replicate the work and ideas presented in Disrupting Adversarial Transferability in Deep Neural Networks. Trained Dual Neck Autoencoder models are also included.
 By directory:
-classifier_exp: Contains notebooks and results used in the paper to compare separate CNN classifiers and their attack transferability
+
+classifier_exp: Contains notebooks and results used in the paper to compare separate CNN classifiers and their attack transferability.
   -parameter_classifiers.ipynb can be used to train parallel classifiers with different parametric distances in parallel.
   -decorrelated_classifiers.ipynb can be used to train parallel classifiers with the decorrelation mechanism.
   -plot_figures.ipynb is used to create figures from the classifier results.
