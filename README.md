@@ -3,10 +3,10 @@ The following repository contains code and notebooks which can be used to replic
 By directory:
 
 classifier_exp: Contains notebooks and results used in the paper to compare separate CNN classifiers and their attack transferability.  
-  -train.py: main script for training regular and decorrelated models
-  -train_dverge: modified script for training using simplified DVERGE methodology
-  -attacks.py: file containing attack algorithms
-  -models.py: file containing model architectures
+  -train.py: main script for training regular and decorrelated models.  
+  -train_dverge: modified script for training using simplified DVERGE methodology.  
+  -attacks.py: file containing attack algorithms.  
+  -models.py: file containing model architectures.  
 
 DNA_exp: Contains subdirectories cifar_exp and mnist_exp, which each contain notebooks for recreating the cifar and mnist experiments respectively.  
   -train_DNA.ipynb: notebook for training and saving DNA model and accompanying classifier.  
